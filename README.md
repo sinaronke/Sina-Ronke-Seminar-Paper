@@ -10,4 +10,4 @@
 
 # 3.1 - 3.5:      Machine Learning Models: Predict "Binary Label" (Attack or Normal)
 
-# 4.1 - 4.5       Machine Leraning Models: Predict "Label" (Normnal or different Attacks)
+# 4.1 - 4.5       Machine Learning Models: Predict "Label" (Normal or different Attacks)
