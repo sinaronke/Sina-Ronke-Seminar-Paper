@@ -1,4 +1,4 @@
-# Sina Ronke MatNr. 5074602
+# Sina Ronke
 
 # Machine Learning Models Seminar Paper DBM20A
 
