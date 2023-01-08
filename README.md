@@ -1,8 +1,8 @@
-# s200756 MatNr.: 5074602
-# Sina Ronke 
+# Sina Ronke MatNr. 5074602
+
 # Machine Learning Models Seminar Paper DBM20A
 
-# The provided repository contains all steps for the development of different machine learning models to detetct misue in network traffic
+# The provided repository contains all steps for the development of different machine learning models to detect misuse attacks in network traffic
 
 # 1. First Step:  Cleaning the UNR-IDD Dataset
 
