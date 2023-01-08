@@ -10,8 +10,8 @@ Cleaning the UNR-IDD Dataset
 2. Second Step
 Explore features and Pre-selection
 
+3.1 - 3.5 Binary classification
 Machine Learning Models: Predict "Binary Label" (Attack or Normal)
-3.1 - 3.5
 
+4.1 - 4.5 Multilabel classification
 Machine Leraning Models: Predict "Label" (Normnal or different Attacks)
-4.1 - 4.5
